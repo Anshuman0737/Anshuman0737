@@ -1,59 +1,125 @@
-# 🚀 Hi there, I'm Anshuman Pandey!
-
-I'm a passionate AI/ML enthusiast, software developer, and cloud practitioner specializing in building scalable AI applications, optimizing deep learning models, and exploring cutting-edge LLM architectures.
-
----
-
-## 🛠 Tech Stack
-
-Experienced with core programming in ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white), ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white), and ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white).  
-Skilled in cloud and DevOps: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white), ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white), ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white), ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), and ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white).  
-Well-versed in AI & Machine Learning with ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white), NLP, ![MLflow](https://img.shields.io/badge/MLflow-F37626?style=flat&logoColor=white), and modern LLM frameworks such as ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white), ![BERT](https://img.shields.io/badge/BERT-3B4A99?style=flat&logo=google&logoColor=white), and ![LLama](https://img.shields.io/badge/LLama-F6450D?style=flat).
+<!-- Hero Section -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#3776AB;">Anshuman Pandey</span>!</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3776AB&width=435&lines=AI+%2F+ML+Enthusiast;Software+Developer;Cloud+Practitioner;Always+Learning!" alt="Typing SVG" />
+</p>
+<p align="center">
+    <b>Turning ideas into scalable AI solutions | Lifelong learner | Tech for good advocate</b><br>
+    <em>“The best way to predict the future is to create it.”</em>
+</p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 About Me
+
+I'm a curious technologist with a passion for Artificial Intelligence, Machine Learning, and Cloud Computing. From building emotion recognition systems to leading tech clubs, my journey is all about pushing boundaries and making technology accessible to everyone.
+
+- 🧠 I love blending AI with real-world problems.
+- 🌎 I mentor, lead, and give back to the tech community.
+- 📈 Always striving for innovation and impact.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frameworks & Libraries:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **Top 18.73%** on LeetCode | 172+ problems solved (50+ hard)
+- 🤖 President of Robotics Process Automation Club | Organized 10+ tech events
+- 🏫 Led cross-school coding initiative in Delhi-NCR | Impacted 100+ students
+- 💡 Conducted coding workshops for underprivileged youth
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td>
 
 ### 🧠 MindWave (EEG-Based Emotion Recognition)  
-- Real-time emotion classification using EEG sensor data  
-- Achieved **93.4% accuracy** with MLP and CNN models  
-- Enhanced neurofeedback therapy accuracy by 15%  
+- Real-time emotion classification via EEG
+- **93.4% accuracy** (MLP & CNN)
+- Improved neurofeedback therapy by 15%  
+
+</td>
+<td>
 
 ### ⌚ Authentech (Watch Authentication System)  
-- CNN-based model for fake vs real luxury watch detection  
-- Used image segmentation and feature extraction  
-- Implemented data augmentation for improved accuracy  
+- CNN-based model for luxury watch authentication  
+- Advanced image segmentation & feature extraction  
+- Enhanced accuracy with data augmentation
 
-### 🍅 Crop Disease Detection (AI + NLP)  
-- AI system for plant disease classification from images  
-- NLP-powered Q&A for tomato disease diagnosis  
-- Compared VGG16, VGG19, and custom CNN models  
+</td>
+</tr>
+<tr>
+<td>
+
+### 🍅 Crop Disease Detection  
+- AI system for plant disease classification  
+- NLP-powered Q&A for tomato diagnosis  
+- Compared VGG16, VGG19, custom CNNs
+
+</td>
+<td>
 
 ### 📚 B2Me (Online Bookstore)  
-- Java-based e-commerce platform with MySQL backend  
-- Features wishlist, author descriptions, and reservation  
+- Java-based e-commerce platform
+- Features wishlist, author bios, reservation system
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### 📑 AI-Powered Study Assistant  
-- Free AI tool for study material summarization and explanation  
-- User-friendly and accessible interface  
+- Free AI tool for summarizing & explaining study material  
+- Simple, user-friendly interface
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Achievements  
+## 🌐 Find Me Online
 
-- Ranked **Top 18.73%** on LeetCode with 172+ problems solved (50+ hard)  
-- President of Robotics Process Automation Club, organized 10+ tech events  
-- Led cross-school coding initiative in Delhi-NCR  
-- Coordinated coding workshops for underprivileged students  
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/-Anshuman_Pandey-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/anshumanpandey07)](https://linkedin.com/in/anshumanpandey07)  
-[![GitHub](https://img.shields.io/badge/-Anshuman0737-black?style=flat&logo=github&logoColor=white&link=https://github.com/Anshuman0737)](https://github.com/Anshuman0737)  
-[![LeetCode](https://img.shields.io/badge/-anshuman737-FFA116?style=flat&logo=leetcode&logoColor=black&link=https://leetcode.com/u/anshuman737/)](https://leetcode.com/u/anshuman737/)  
+<p align="center">
+    <a href="https://linkedin.com/in/anshumanpandey07"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/Anshuman0737"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://leetcode.com/u/anshuman737/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+</p>
 
 ---
 
-*🚀 Always exploring AI & ML innovations!*
+## ✨ Fun Facts & Learning Philosophy
+
+- 🎧 EDM and Lo-fi keep me in the coding zone!
+- 🏸 Badminton & Chess enthusiast
+- ✍️ I believe the best learning happens when you teach others.
+- 🚀 Motto: _“Stay curious, keep building, and help others rise!”_
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always open to new projects, hackathons, and discussions about AI, ML, or anything tech.  
+**Drop me a message, let’s build something awesome together!**
+
+---
+
+<p align="center"><sub>Last updated: 2025</sub></p>
