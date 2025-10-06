@@ -125,7 +125,7 @@ Noida, India | Jun 2025 – Present
 
 <p align="center">
   <a href="mailto:pandeyanshuman212@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/anshumanpandey07"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/anshuman0"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
   <a href="https://github.com/Anshuman0737"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"></a>
   <a href="https://leetcode.com/u/anshuman737/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"></a>
 </p>
