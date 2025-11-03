@@ -11,7 +11,6 @@
   <a href="https://github.com/Anshuman0737"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/anshuman737/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <br>
-  <b>📞 +91 9354861749</b>
 </p>
 
 ---
