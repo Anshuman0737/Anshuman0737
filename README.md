@@ -1,6 +1,6 @@
 <!-- Animated Banner (replace the GIF link with your own if desired) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Animated Banner"/>
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="280" alt="Doggo Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078FF;">Anshuman Pandey</span>!</h1>
