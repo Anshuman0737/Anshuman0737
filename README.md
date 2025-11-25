@@ -124,5 +124,5 @@ Noida, India | Jun 2025 – Present
 ---
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0078FF&width=440&lines=Stay+curious,+keep+building,+and+help+others+rise!+🚀](https://imgur.com/gallery/mrw-i-adopt-new-dog-gif-36-95-IEdp8Bj)" />
+  <img src="https://imgur.com/gallery/mrw-i-adopt-new-dog-gif-36-95-IEdp8Bj" />
 </p>
