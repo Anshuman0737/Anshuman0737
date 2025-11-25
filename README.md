@@ -1,7 +1,8 @@
 <!-- Animated Doggo Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/4k1V8LJIYtIAAAAM/dog-smile.gif" width="260" alt="Doggo GIF"/>
+  <img src="https://i.imgur.com/nm2y8F4.gif" width="280" alt="Cute Tiny Dog"/>
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078FF;">Anshuman Pandey</span>!</h1>
 
