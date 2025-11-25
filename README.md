@@ -124,5 +124,5 @@ Noida, India | Jun 2025 – Present
 ---
 <!-- Animated Doggo Banner -->
 <p align="center">
-  <img src="https://imgur.com/gallery/mrw-i-adopt-new-dog-gif-36-95-IEdp8Bj" width="280" alt="Hide in dog"/>
+  <img src="https://i.imgur.com/IEdp8Bj.gif" width="280" alt="Cute Dog GIF"/>
 </p>
